@@ -16,7 +16,7 @@
   
 <!-- Right bottom -->
 <p>
-HTML | CSS | JavaScript | Java | SQL | SpringBoot | Burp Suite
+HTML | CSS | JavaScript | Java | SQL | SpringBoot 
 </p>
 
 </td>
