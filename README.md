@@ -23,3 +23,4 @@ HTML | CSS | JavaScript | Java | SQL | SpringBoot
 </tr>
 </table>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6ae3c80773f1f7f71168b74d?variant=dark&roadmaps=%2Ccyber-security" alt="roadmap.sh"/></a>
+<script src="https://tryhackme.com/badge/t/6c9bd3760b3afa2cabb6d8e7fc6cd7e0fc3081fc497d14fd5e2336d989b5ba7e4eccc4891715c77fe13d81859d331f07?theme=dark"></script>
