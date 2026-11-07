@@ -22,4 +22,4 @@ HTML | CSS | JavaScript | Java | SQL | SpringBoot
 </td>
 </tr>
 </table>
-[![roadmap.sh](https://roadmap.sh/card/tall/6ae3c80773f1f7f71168b74d?variant=dark&roadmaps=%2Ccpp%2Ccyber-security)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6ae3c80773f1f7f71168b74d?variant=dark&roadmaps=%2Ccpp%2Ccyber-security" alt="roadmap.sh"/></a>
